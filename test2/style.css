@@ -1,0 +1,18 @@
+body, h1, h2, h3, h4, h5, h6, p, ul, ol, li, dl, dt, dd, form, input, em, iframe, select, button{margin:0;padding:0}
+body{font:12px "\5B8B\4F53"; color:#333; background:#fff no-repeat top center}
+a{text-decoration:none;outline:none; color:#333}
+a:hover{text-decoration:underline;}
+h1, h2, h3, em, button{font-weight:normal;font-style:normal;}
+h2{font:bold 14px/18px "\5FAE\8F6F\96C5\9ED1";}
+li{list-style:none}
+table{border-collapse:collapse;margin:0 auto}
+iframe, img, button{border:0}
+.area,.Area{ margin:0 auto ; width:1000px; text-align:left;}
+.area:after,.Area:after{content:"."; display:block;height:0;visibility:hidden;clear:both;}
+.fontArial{font-family:"Arial";}
+.right,.r{float:right;}
+.left, .l, .l_f {float: left;}
+.fl{ float:left;}
+.fr{ float:right;}
+
+
