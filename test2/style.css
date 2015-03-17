@@ -1,5 +1,5 @@
 body, h1, h2, h3, h4, h5, h6, p, ul, ol, li, dl, dt, dd, form, input, em, iframe, select, button{margin:0;padding:0}
-body{font:12px "\5B8B\4F53"; color:#333; background:#fff no-repeat top center}
+body{font:12px "\u5fae\u8f6f\u96c5\u9ed1"; color:#333; background:#fff no-repeat top center}
 a{text-decoration:none;outline:none; color:#333}
 a:hover{text-decoration:underline;}
 h1, h2, h3, em, button{font-weight:normal;font-style:normal;}
@@ -15,4 +15,26 @@ iframe, img, button{border:0}
 .fl{ float:left;}
 .fr{ float:right;}
 
+.main{width:980px; margin:0 auto;padding:10px 0;}
+.item1 {width:980px;height:344px;background:url(img/item1.jpg) no-repeat;}
+.item1 ul{padding:103px 0 0 45px; color:#232322;}
+.item1 .f{line-height:38px; font-family:'Microsoft Yi BaiTi';font-size:36px;text-transform:uppercase}
+.item1 .f1{line-height:54px; font-size:38px;font-weight:bold;}
+.item1 .f1 span{color:#2e9900;}
+.item1 .f2{line-height:30px; font-size:20px;}
+.item2 {margin:10px 0; padding:1px;width:978px;height:342px;background:url(img/item2.jpg) no-repeat;}
+
+.item2 ul{padding:98px 0 0 30px; color:#232322;}
+.item2 .f{line-height:40px; font-size:24px;font-weight:bold;}
+.item2 .f1{line-height:30px;font-family:'Times New Roman'; font-size:20px;text-transform:uppercase;}
+
+.item2 .f2{line-height:30px;font-family:'Times New Roman'; font-size:20px;text-transform:uppercase;}
+
+.item3 {padding:97px 0 0 40px; width:940px;height:247px;background:url(img/item3.jpg) no-repeat;}
+
+.item3 p{color:#232322;}
+.item3 .f{line-height:30px; font-size:14px;}
+.item3 .f1{line-height:50px; font-size:34px;font-weight:bold;color:#309705;}
+
+.item3 .f2{line-height:18px;font-family:'arial'; font-size:9px;text-transform:uppercase;}
 
