@@ -1,0 +1,26 @@
+@charset "utf-8";
+*{-webkit-box-sizing:border-box;box-sizing:border-box}
+body,h1,h2,h3,h4,h5,h6,dl,dt,dd,ul,ol,li,th,td,p,form,input,button,textarea,hr,article,footer,header,menu,nav,section{margin:0;padding:0}
+img{vertical-align:middle;border:0;max-width:100%}
+a{color:#fff;text-decoration:none}
+li{vertical-align:middle;list-style:none}
+html,body{width:100%;}
+html{-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}
+body{margin:0;color:#fff;font:normal 16px/1.5 "微软雅黑", "Microsoft Yahei","Helvetica Neue",Helvetica,Arial,STHeiTi,sans-serif;-webkit-tap-highlight-color:transparent;-webkit-tap-highlight-color:transparent;-webkit-touch-callout:none;-webkit-user-select:none;user-select:none}
+button{-webkit-appearance:none}
+.clearfix:before,.clearfix:after{content:'';display:table}
+.clearfix:after{clear:both}
+
+header{width:100%;overflow:hidden;}
+header div {width:50%;float:left;line-height:58px;color:#fff;font-size:16px;text-align:center;}
+header div.l{background:#15abd0;}
+header div.r{background:#56bde8;}
+ul{padding:10px 10px 20px;}
+ul li {padding-left:10%;background:#f1f1f1 url(img/icon.png) no-repeat;line-height:48px;border-bottom:2px solid #e3e3e3;overflow:hidden;font-size:14px;}
+ul li.p1{background-position: 0 -343px}
+ul li.p2{background-position: 0 -304px}
+ul li.p3{background-position: 0 -387px}
+ul li span {float:left;color:#999595;text-align:center;}
+ul li span.time{width:40%;}
+ul li span.type{width:27%;}
+ul li span.pri{width:33%;color:#15abd0;}
