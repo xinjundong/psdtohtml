@@ -1,0 +1,2 @@
+/*sjying 2015-03-24*/
+SA.task.addRTask("shoppingGuide",function(a,b){var c=new a.ui.sohuLazyLoad;c.delayLoader(1),c.bindEvent(),new SohuCarFlash({contentBoxId:"flashFoucsBox_3",contentItemTag:"li",naviBoxId:"flashFoucsNavi_3",naviItemTag:"span",auto:!0}),new SA.ui.horizontalTab(b("#utab_08"),b("#utabobj_08")),new SA.ui.horizontalTab(b("#utab_09"),b("#utabobj_09")),new SA.ui.horizontalTab(b("#utab_10"),b("#utabobj_10")),SA.ui.verticalTab()}),SA.task.runRTask("shoppingGuide");
